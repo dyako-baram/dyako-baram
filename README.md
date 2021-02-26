@@ -1,3 +1,3 @@
 - Hi, I’m @dyako-baram
 - I’m interested in .NET and React 
-- I’m currently learning Modern Web Apps
+- currently learning Modern Web Apps and Modern Desktop Development

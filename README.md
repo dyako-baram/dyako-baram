@@ -1,6 +1,8 @@
 ## Hi, I’m dyako baram
-- I’m interested in .NET and React 
-- currently learning Modern Web Apps and Modern Desktop Development
+### About ME
+I am very enthusiastic about technology in general; most of my knowledge is self-taught. It is my passion from the beginning.
+I try to dedicate any time I have to code and learn the technology of my interest.
+most of my interests are towards .NET development platform specifically web and desktop development.
 
 ### Languages and Tools:
 <img align="left" alt=".net core" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" />

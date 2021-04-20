@@ -4,6 +4,9 @@ I am very enthusiastic about technology in general; most of my knowledge is self
 I try to dedicate any time I have to code and learn the technology of my interest.
 most of my interests are towards .NET development platform specifically web and desktop development.
 
+Currentlly trying to deeping my knowlage in .NET ecosystem and learning Java For web development.
+
+
 ### Languages and Tools:
 <img align="left" alt=".net core" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />

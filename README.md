@@ -1,11 +1,17 @@
 ## Hi, I’m dyako baram
 ### About ME
+#### You can find me on [linkedin][2].
 I am very enthusiastic about technology in general; most of my knowledge is self-taught. It is my passion from the beginning.
 I try to dedicate any time I have to code and learn the technology of my interest.
 most of my interests are towards .NET development platform specifically web and desktop development.
 
 Currently trying to deeping my knowlage in .NET ecosystem and learning Java For web development.
+<!-- Actual text -->
 
+
+
+
+[2]: https://www.linkedin.com/in/dyako-baram-b0086420a/
 
 ### Languages and Tools:
 <img align="left" alt=".net core" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" />

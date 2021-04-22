@@ -25,3 +25,4 @@ Currently trying to deeping my knowlage in .NET ecosystem and learning Java For 
 <img align="left" alt="SQL" width="26px" src="https://code.benco.io/icon-collection/azure-icons/SQL-Database.svg" />
 <img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 <img align="left" alt="GitHub" width="26px" src="https://www.freeiconspng.com/uploads/github-icon-8.png" />
+<img align="left" alt="Docker" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />

@@ -5,12 +5,6 @@ I am very enthusiastic about technology in general; most of my knowledge is self
 I try to dedicate any time I have to code and learn the technology of my interest.
 most of my interests are towards .NET development platform specifically web and desktop development.
 
-Currently trying to deeping my knowlage in .NET ecosystem and learning Java For web development.
-<!-- Actual text -->
-
-
-
-
 [2]: https://www.linkedin.com/in/dyako-baram-b0086420a/
 
 ### Languages and Tools:
